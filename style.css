@@ -106,7 +106,7 @@ h3{
 }
 /*Formulario*/
 .formulario{
-    background-color: var(--gris);
+   background-image: url(fondo3.jpg);
     width: 90%;
      max-width: 60rem;
     margin: 0 auto;
